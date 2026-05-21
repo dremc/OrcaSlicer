@@ -1507,7 +1507,119 @@
 		{
 			"name": "GreenGate3D PETG @System",
 			"sub_path": "filament/GreenGate3D/GreenGate3D PETG @System.json"
-		}
+		},
+		{
+			"name": "DREMCPLA+ @System",
+			"sub_path": "filament/DREMC/DREMC PLA+ @System.json"
+		},
+		{
+			"name": "DREMCPETG @System",
+			"sub_path": "filament/DREMC/DREMC PETG @System.json"
+		},
+		{
+			"name": "DREMCPLA+ @base",
+			"sub_path": "filament/DREMC/DREMC PLA+ @base.json"
+		},
+		{
+			"name": "DREMCPETG @base",
+			"sub_path": "filament/DREMC/DREMC PETG @base.json"
+		},
+		{
+			"name": "DREMCABS @System",
+			"sub_path": "filament/DREMC/DREMC ABS @System.json"
+		},
+		{
+			"name": "DREMCABS @base",
+			"sub_path": "filament/DREMC/DREMC ABS @base.json"
+		},
+		{
+			"name": "DREMCABS+ @System",
+			"sub_path": "filament/DREMC/DREMC ABS+ @System.json"
+		},
+		{
+			"name": "DREMCABS+ @base",
+			"sub_path": "filament/DREMC/DREMC ABS+ @base.json"
+		},
+		{
+			"name": "DREMCSAAS @System",
+			"sub_path": "filament/DREMC/DREMC ASA @System.json"
+		},
+		{
+			"name": "DREMCSAAS @base",
+			"sub_path": "filament/DREMC/DREMC ASA @base.json"
+		},
+		{
+			"name": "DREMCPA6-CF @System",
+			"sub_path": "filament/DREMC/DREMC PA6-CF @System.json"
+		},
+		{
+			"name": "DREMCPA6-CF @base",
+			"sub_path": "filament/DREMC/DREMC PA6-CF @base.json"
+		},
+		{
+			"name": "DREMCPA12-CF @base",
+			"sub_path": "filament/DREMC/DREMC PA12-CF @base.json"
+		},
+		{
+			"name": "DREMCPA12-CF @System",
+			"sub_path": "filament/DREMC/DREMC PA12-CF @System.json"
+		},
+		{
+			"name": "DREMCPET-CF @System",
+			"sub_path": "filament/DREMC/DREMC PET-CF @System.json"
+		},
+		{
+			"name": "DREMCPET-CF @base",
+			"sub_path": "filament/DREMC/DREMC PET-CF @base.json"
+		},
+		{
+			"name": "DREMCABS-GF @System",
+			"sub_path": "filament/DREMC/DREMC ABS-GF @System.json"
+		},
+		{
+			"name": "DREMCABS-GF @base",
+			"sub_path": "filament/DREMC/DREMC ABS-GF @base.json"
+		},
+		{
+			"name": "DREMCTPU95A @base",
+			"sub_path": "filament/DREMC/DREMC TPU 95A @base.json"
+		},
+		{
+			"name": "DREMCTPU95A @System",
+			"sub_path": "filament/DREMC/DREMC TPU 95A @System.json"
+		},
+		{
+			"name": "DREMCPPA-CF @System",
+			"sub_path": "filament/DREMC/DREMC PPA-CF @System.json"
+		},
+		{
+			"name": "DREMCPPA-CF @base",
+			"sub_path": "filament/DREMC/DREMC PPA-CF @base.json"
+		},
+		{
+			"name": "DREMCPLAHS @base",
+			"sub_path": "filament/DREMC/DREMC PLA+ HS @base.json"
+		},
+		{
+			"name": "DREMCPLAHS @System",
+			"sub_path": "filament/DREMC/DREMC PLA+ HS @System.json"
+		},
+		{
+			"name": "DREMCSAACF @System",
+			"sub_path": "filament/DREMC/DREMC ASA CF @System.json"
+		},
+		{
+			"name": "DREMCSAACF @base",
+			"sub_path": "filament/DREMC/DREMCS ASA CF @base.json"
+		},
+		{
+			"name": "DREMCSAAGF @base",
+			"sub_path": "filament/DREMC/DREMC ASA GF @base.json"
+		},
+		{
+			"name": "DREMCSAAGF @System",
+			"sub_path": "filament/DREMC/DREMC ASA GF @System.json"
+		}		
 	],
 	"process_list": [],
 	"machine_model_list": [],
