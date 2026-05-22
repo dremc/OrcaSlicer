@@ -1,6 +1,6 @@
 {
 	"type": "filament",
-	"name": "DREMC CF ASA @base",
+	"name": "DREMC ASA CF @base",
 	"inherits": "fdm_filament_asa",
 	"from": "system",
 	"filament_id": "DREMC012",
