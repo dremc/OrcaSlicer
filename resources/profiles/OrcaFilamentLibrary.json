@@ -1598,11 +1598,11 @@
 		},
 		{
 			"name": "DREMC PLA+ HS @base",
-			"sub_path": "filament/DREMC/DREMC PLA+ HS @base.json"
+			"sub_path": "filament/DREMC/DREMC PLA HS @base.json"
 		},
 		{
 			"name": "DREMC PLA+ HS @System",
-			"sub_path": "filament/DREMC/DREMC PLA+ HS @System.json"
+			"sub_path": "filament/DREMC/DREMC PLA HS @System.json"
 		},
 		{
 			"name": "DREMC ASA CF @base",
